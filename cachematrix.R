@@ -6,7 +6,6 @@
 ##(2)set is a function that changes the vector stored in the main function.
 ##(3)setinverse and getinverse are functions very similar to set and get.They store the values of inverse
 
-
 ## Write a short comment describing this function
 
 ## This function creates a special matrix object that can cache its inverse.
